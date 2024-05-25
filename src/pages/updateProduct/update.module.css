@@ -1,0 +1,9 @@
+.input,input{
+    width: 30vw !important;
+}
+.container_form{
+    width:65vw;
+}
+button{
+    width: 100%;
+}

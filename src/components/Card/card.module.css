@@ -1,0 +1,36 @@
+.image{
+    width:12rem;
+}
+.CardBody{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}
+.card_img {
+    width:50%;
+    margin: 0 auto;
+     position: absolute;
+    top:38%;
+    left: 50%; 
+     transform: translate3d(-50%,-50%,0); 
+}
+.badge{
+    left:88%
+}
+.quantity{
+    width: 50%;
+}
+.nostyle{
+    border:none;
+    background-color: transparent;
+    padding: 0;
+}
+form{
+    width: 80%;
+}
+input[type="number"]{
+width:30% !important;
+}
+.add{
+    width:4rem !important;
+}
