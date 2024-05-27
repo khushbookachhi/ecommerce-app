@@ -38,3 +38,4 @@ Ecommerce BuyBusy is a full stack web application designed to provide a seamless
   - **MongoDB**:- Mongoose schemas are used to model the application data, ensuring efficient data structures and integrity.
   ### API Integration
   Axios is used to integrate with REST APIs, facilitating communication between the front-end and back-end of the application.
+  _______________________________________________________________________________________________________________________________________________________________________________________
